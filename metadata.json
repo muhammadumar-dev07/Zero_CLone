@@ -1,0 +1,6 @@
+{
+  "name": "Zero - Precision Redefined",
+  "description": "Luxury high-fashion and precision engineering smartwatches with quantum neural sync horology.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
